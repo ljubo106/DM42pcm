@@ -1,7 +1,7 @@
 #### < not yet released > DM42pcm-1.00
 
 - Added about screeen to comply with SwissMicros ask - see [SwissMicros "Third
-  Party firmware builds" form description](https://forum.swissmicros.com/viewforum.php?f=15)
+  Party firmware builds" forum description](https://forum.swissmicros.com/viewforum.php?f=15)
 - Fixed LNSTK issue (see https://github.com/thomasokken/free42 )
 - New version numbering
 
