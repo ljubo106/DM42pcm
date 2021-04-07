@@ -1,4 +1,4 @@
-#### < not yet released > DM42pcm-1.00
+#### 2021-04-07 DM42pcm-3.18b2.4
 
 - Added about screeen to comply with SwissMicros ask - see [SwissMicros "Third
   Party firmware builds" forum description](https://forum.swissmicros.com/viewforum.php?f=15)
