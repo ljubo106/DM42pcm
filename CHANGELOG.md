@@ -1,3 +1,12 @@
+#### 2021-05-01 DM42pcm-3.18.5
+
+- Update to DM42-3.18 / free42 v3.0.2
+- exitall is now returning to custom menu
+- Improved behavior for alpha menu
+- Improved shifted persistent custom menu handling
+- Fixed memory leak in parameterized comparisons (taken from https://github.com/thomasokken/free42)
+
+
 #### 2021-04-07 DM42pcm-3.18b2.4
 
 - Added about screeen to comply with SwissMicros ask - see [SwissMicros "Third
