@@ -6,16 +6,21 @@ me this change greatly increases usability of the DM42.
 
 See https://www.swissmicros.com for firmware update instructions.
 
+See https://github.com/ljubo106/DM42pcm/releases for firmware pgm file.
+
 **This firmware mod is neither provided by nor supported by SwissMicros.**
 
+### Firmware mod functionality
 
-### The new behavior
-
-* Custom menu is the base menu - custom commands are always directly accessible
+* Custom menu is the base menu - custom commands are (almost) always directly accessible
+  * In some cases custom menu will not be displayed - simple press at "Exit" will bring it back
 * Shift is temporary switching to the "upper" custom menu - those commands are just an additional click away
-* Shift-CUSTOM activates default DM42 F-Button functionality
+* Shift-CUSTOM activates default DM42 F-Button functionality (also making possible to turn persistent custom menu off)
 * In the Prgm mode Exit will exit custom menu - makes easy to access up and down arrows
 * Entering other menus will of course exit Custom menu
+* F3 key functionality
+  * F3 will start "DM42F3" user program
+  * Shift-F3 is toggling persistent custom menu functionality
 
 ### Code
 Project consist of 3 repositories:

@@ -1,4 +1,9 @@
 
+#### 2021-05-16 DM42pcm-3.19.6
+
+- Added F3 key bindings: Plain F3 to start "DM42F3" user program and shift-F3 to toggle the persistent custom menu functionality
+
+
 #### 2021-05-15 DM42pcm-3.19.5
 
 - Update to DM42-3.19 / free42 v3.0.3
