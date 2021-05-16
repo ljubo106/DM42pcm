@@ -4,9 +4,9 @@ Slightly changed Free42 code making the custom menu the system base menu.
 For DM42 that behavior makes sense as DM42 has dedicated custom keys - for
 me this change greatly increases usability of the DM42.
 
-See https://www.swissmicros.com for firmware update instructions.
+Download: https://github.com/ljubo106/DM42pcm/releases
 
-See https://github.com/ljubo106/DM42pcm/releases for firmware pgm file.
+See https://www.swissmicros.com for firmware update instructions.
 
 **This firmware mod is neither provided by nor supported by SwissMicros.**
 
