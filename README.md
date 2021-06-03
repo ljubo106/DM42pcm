@@ -1,8 +1,8 @@
 ## DM42 Persistent Custom Menu firmware mod
 
-Slightly changed Free42 code making the custom menu the system base menu.
-For DM42 that behavior makes sense as DM42 has dedicated custom keys - for
-me this change greatly increases usability of the DM42.
+DM42 calculator (https://www.swissmicros.com/product/dm42) has dedicated custom keys, however, the default functionality assigned to those keys (help, font manipulation, etc.) is not frequently used. On the other hand, user assigned functions are usually frequently needed but accessible only after activation of the custom menu with Shift-Custom key.
+
+This firmware mod is implementing the persistent custom menu, making the custom menu permanently visible and accessible – the custom menu logic is inverted – custom menu is always visible and to temporarily exit it one need to press Shift-Custom. 
 
 Download: https://github.com/ljubo106/DM42pcm/releases
 
@@ -12,12 +12,11 @@ See https://www.swissmicros.com for firmware update instructions.
 
 ### Firmware mod functionality
 
-* Custom menu is the base menu - custom commands are (almost) always directly accessible
+* Custom commands are (almost) always directly accessible
   * In some cases custom menu will not be displayed - simple press at "Exit" will bring it back
 * Shift is temporary switching to the "upper" custom menu - those commands are just an additional click away
-* Shift-CUSTOM activates default DM42 F-Button functionality (also making possible to turn persistent custom menu off)
-* In the Prgm mode Exit will exit custom menu - makes easy to access up and down arrows
-* Entering other menus will of course exit Custom menu
+* In the Prgm mode Exit will exit custom menu making access to up and down arrows easy
+* Shift-CUSTOM activates default DM42 F-Buttons functionality (also making possible to turn persistent custom menu functionality off)
 * F3 key functionality
   * F3 will start "DM42F3" user program
   * Shift-F3 is toggling persistent custom menu functionality
