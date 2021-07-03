@@ -2,6 +2,7 @@
 #### 2021-07-03 DM42pcm-3.20.7b
 
 - Fixed typo in 'L4STK fix' area.
+- Beta release
 
 
 #### 2021-07-03 DM42pcm-3.20.7a
