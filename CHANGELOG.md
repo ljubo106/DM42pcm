@@ -1,8 +1,14 @@
 
+#### 2021-07-03 DM42pcm-3.20.7b
+
+- Fixed typo in 'L4STK fix' area.
+
+
 #### 2021-07-03 DM42pcm-3.20.7a
 
 - Merged 'Fixed bug in pivoting logic for complex LU decomposition' and 'L4STK fix' from thomasokken repository
 - Alpha release
+
 
 #### 2021-05-21 DM42pcm-3.19.7
 
