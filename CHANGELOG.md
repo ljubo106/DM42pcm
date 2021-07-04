@@ -1,4 +1,10 @@
 
+#### 2021-07-03 DM42pcm-3.20.8a
+
+- Persistent menu is not shifted if LCLBL is active.
+- Alpha release
+
+
 #### 2021-07-03 DM42pcm-3.20.7b
 
 - Fixed typo in 'L4STK fix' area.
