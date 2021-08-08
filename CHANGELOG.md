@@ -1,4 +1,9 @@
 
+#### 2021-08-08 DM42pcm-3.20.8b
+
+- Adding RCOMPLX and PCOMPLX from thomasokken repository
+
+
 #### 2021-07-03 DM42pcm-3.20.8a
 
 - Persistent menu is not shifted if LCLBL is active.
