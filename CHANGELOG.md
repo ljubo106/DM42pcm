@@ -1,4 +1,9 @@
 
+#### 2021-09-04 DM42pcm-3.20.8
+
+- Update to DM42-3.20 / free42 v3.0.5
+
+
 #### 2021-08-08 DM42pcm-3.20.8b
 
 - Adding RCOMPLX and PCOMPLX from thomasokken repository
