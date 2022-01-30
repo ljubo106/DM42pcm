@@ -27,7 +27,7 @@ Project consist of 3 repositories:
 * This one to release binaries and keep readme and changelog
 * https://github.com/ljubo106/DM42PGM
   * Fork of https://github.com/swissmicros/DM42PGM
-* https://github.com/ljubo106/free42
+* https://github.com/ljubo106/DM42free42
   * Fork of https://github.com/swissmicros/free42
     * Fork of https://github.com/thomasokken/free42
 
