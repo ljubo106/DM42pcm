@@ -20,7 +20,7 @@ See https://www.swissmicros.com for firmware update instructions.
     * Shift-F3 is toggling the persistent custom menu functionality
 * In the Prgm mode Exit will exit the custom menu enabling direct access to the up and down arrows
 * Enter DM42 "Setup" / "PCM firmware mod" menu to:
-  * Turn PCM funcionality on and off
+  * Turn PCM functionality on and off
   * Configure how Shift button is changing perrsistent custom menus
 
 
