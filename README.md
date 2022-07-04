@@ -14,12 +14,15 @@ See https://www.swissmicros.com for firmware update instructions.
 
 * Custom menu is always visible and directly accessible
   * In some rare cases the custom menu will not be displayed - simple press at "Exit" will bring it back
-* Shift is acting as a press on the up-arrow, temporary showing the associated custom menu
-* In the Prgm mode Exit will exit the custom menu making access to the up and down arrows easy
-* Shift-CUSTOM activates default DM42 F-Buttons functionality (also making possible to turn the persistent custom menu functionality off)
-* F3 key functionality
-  * F3 will start "DM42F3" user program
-  * Shift-F3 is toggling the persistent custom menu functionality
+* Shift-CUSTOM activates default DM42 F-Buttons functionality
+  * F3 key functionality
+    * F3 will start "DM42F3" user program
+    * Shift-F3 is toggling the persistent custom menu functionality
+* In the Prgm mode Exit will exit the custom menu enabling direct access to the up and down arrows
+* Enter DM42 "Setup" / "PCM firmware mod" menu to:
+  * Turn PCM funcionality on and off
+  * Configure how Shift button is changing perrsistent custom menus
+
 
 ### Code
 Project consist of 3 repositories:

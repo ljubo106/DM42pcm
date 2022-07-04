@@ -1,3 +1,14 @@
+#### 2022-07-04 DM43pcm-3.21.9
+
+- Added PCM firmware mode setup menu to turn PCM functionality on/off and to control shift functionality
+- Merged number of fixes and improvements from the latest thomasokken/free42 repository
+  - Special cases for pure real and pure imag in math_sqrt()
+  - More accurate complex ACOS and ACOSH
+  - Complex sqrt could have wrong sign in certain cases
+  - Latest y^x implementation
+  - Fixed Phloat::floor()
+
+
 #### 2022-01-29 DM42pcm-3.21.8
 
 - Update to DM42-3.21 / free42 v3.0.9
