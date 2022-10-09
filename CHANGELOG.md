@@ -1,3 +1,8 @@
+#### 2022-07-04 DM43pcm-3.22.9
+
+- Update to DM42-3.22 / free42 v3.0.15b
+
+
 #### 2022-07-04 DM43pcm-3.21.9
 
 - Added PCM firmware mode setup menu to turn PCM functionality on/off and to control shift functionality
