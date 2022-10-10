@@ -6,7 +6,7 @@ This firmware mod is implementing persistent custom menu, making the custom menu
 
 Download: https://github.com/ljubo106/DM42pcm/releases
 
-See https://www.swissmicros.com for firmware update instructions.
+See https://www.swissmicros.com for firmware update instructions (please install appropriate DMCP version prior to loading DM42pcm).
 
 **This firmware mod is neither provided by nor supported by SwissMicros.**
 
