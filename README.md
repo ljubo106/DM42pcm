@@ -1,3 +1,8 @@
+[![Latest Release](http://img.shields.io/github/release/ljubo106/DM42pcm?label=download)](http://github.com/ljubo106/DM42pcm/releases)
+[![GitHub Downloads](http://img.shields.io/github/downloads/ljubo106/DM42pcm/total?label=github%20downloads)](http://github.com/ljubo106/DM42pcm/releases)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/ljubo106/DM42pcm/DM42pcm-3.22.9/total?label=Downloads%20v3.22.9)
+
+
 ## DM42 Persistent Custom Menu firmware mod
 
 DM42 calculator (https://www.swissmicros.com/product/dm42) has dedicated custom menu keys (F-Buttons), however, the default functionality assigned to those keys (help, font manipulation, etc.) is not frequently used. On the other hand, functions, programs or variables assigned to custom keys are accessible only after activation of the custom menu with the Shift-Custom key sequence.
