@@ -2,12 +2,11 @@
 
 ### Pulling new DM42 release (example)
 
-git switch master
-git fetch upstream
-git merge upstream/master
-
-git checkout -b pcm-3.20.x
-git merge pcm-3.19.x
+1. git switch master
+2. git fetch upstream
+3. git merge upstream/master
+4. git checkout -b pcm-3.20.x
+5. git merge pcm-3.19.x
 
 
 ### Release process (example)
