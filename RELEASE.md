@@ -4,9 +4,10 @@
 
 1. git switch master
 2. git fetch upstream
-3. git merge upstream/master
-4. git checkout -b pcm-3.20.x
-5. git merge pcm-3.19.x
+   - If needed add upstream with `git remote add upstream git@github.com:swissmicros/free42.git`
+4. git merge upstream/master
+5. git checkout -b pcm-3.20.x
+6. git merge pcm-3.19.x
 
 
 ### Release process (example)
