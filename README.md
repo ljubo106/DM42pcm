@@ -1,5 +1,5 @@
 [![Latest Release](http://img.shields.io/github/release/ljubo106/DM42pcm?label=download)](http://github.com/ljubo106/DM42pcm/releases)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/ljubo106/DM42pcm/DM42pcm-3.22.9/total?label=downloads%20v3.22.9)](http://github.com/ljubo106/DM42pcm/releases)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/ljubo106/DM42pcm/DM42pcm-3.23.9/total?label=downloads%20v3.23.9)](http://github.com/ljubo106/DM42pcm/releases)
 [![GitHub Downloads](http://img.shields.io/github/downloads/ljubo106/DM42pcm/total?label=downloads)](http://github.com/ljubo106/DM42pcm/releases)
 
 
