@@ -31,6 +31,11 @@ See https://github.com/swissmicros/DMCP_SDK/blob/master/keymap_utils/README.md)
 
 ### Development environment setup
 
+sudo snap install --classic code
+
+Download Arm GNU Toolchain from https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads or from https://developer.arm.com/downloads/-/gnu-rm
+
+or install it with apt
+
 sudo apt install gcc-arm-none-eabi
 
-sudo snap install --classic code
